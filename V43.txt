@@ -1,0 +1,24 @@
+street-legends-gr/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   ├── hero.jpg
+│   ├── logo.png
+│   └── gallery/
+└── pages/
+    ├── gallery.html
+    ├── events.html
+    └── contact.htmlΕΠΟΜΕΝΗ ΣΥΝΑΝΤΗΣΗ
+
+📅 17/07/2026 - 18:00
+📍 Η τοποθεσία θα ανακοινωθεί σύντομα📍 TBD (Θα ανακοινωθεί)
+style.css
+hero.jpg
+gallery.html
+logo.png
+events.html
+contact.html
